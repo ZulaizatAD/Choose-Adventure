@@ -5,7 +5,7 @@ from core.config import settings
 
 app = FastAPI(
     title="Choose Your Own Adventure Game API",
-    description="api to generate your game stories",
+    description="api to generate your cool stories",
     version="0.1.0",
     docs_url="/docs",
     redoc_url="/redoc",
